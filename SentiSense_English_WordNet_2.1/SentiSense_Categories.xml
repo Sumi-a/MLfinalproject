@@ -1,0 +1,16 @@
+<SentiSenseEmotionalCategories>
+	<EmotionalCategory name="joy" antonym="sadness"/>
+	<EmotionalCategory name="fear" antonym="calmness"/>
+	<EmotionalCategory name="surprise" antonym="anticipation"/>
+	<EmotionalCategory name="anger" antonym="calmness"/>
+	<EmotionalCategory name="disgust" antonym="like"/>
+	<EmotionalCategory name="love" antonym="hate"/>
+	<EmotionalCategory name="anticipation" antonym="surprise"/>
+	<EmotionalCategory name="hope" antonym="despair"/>
+	<EmotionalCategory name="despair" antonym="hope"/>
+	<EmotionalCategory name="ambiguous" antonym=""/>
+	<EmotionalCategory name="sadness" antonym="joy"/>
+	<EmotionalCategory name="calmness" antonym=""/>
+	<EmotionalCategory name="like" antonym="disgust"/>
+	<EmotionalCategory name="hate" antonym="love"/>			
+</SentiSenseEmotionalCategories>
