@@ -1,0 +1,6 @@
+user_id,emotion
+1,"['sad', 'angry', 'neutral', 'calm']"
+2,"['neutral', 'calm', 'joyful']"
+3,"['sad', 'calm', 'joyful', 'neutral', 'angry']"
+4,"['neutral', 'sad', 'calm', 'joyful', 'angry']"
+5,"['joyful', 'angry', 'calm', 'sad']"
