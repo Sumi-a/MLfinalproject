@@ -1,6 +1,7 @@
 import pandas as pd
 from mlxtend.frequent_patterns import apriori, association_rules
 
+# Insert the parsed file
 df = pd.read_excel('ready4cats.xlsx')
 
 # Split the 'Genres/Sentiments' column into multiple columns
